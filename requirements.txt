@@ -1,0 +1,9 @@
+torch
+torchvision
+diffusers
+transformers
+pillow
+streamlit
+fsspec==2023.4.0
+s3fs==2023.4.0
+
