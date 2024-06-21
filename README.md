@@ -59,5 +59,4 @@ This project allows you to generate stunning images from text prompts using adva
 
 📞 Contact
 - Have feedback, suggestions, or questions? Reach out:
-
-Twitter: [@elliottbarness](https://x.com/elliottbarness)
+- Twitter: [@elliottbarness](https://x.com/elliottbarness)
