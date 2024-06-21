@@ -1,7 +1,7 @@
 # Text-to-Image Generation with Stable Diffusion 🖼️🌌
 
 Welcome to the Text-to-Image Generation project powered by Stable Diffusion and Streamlit! 
-This project allows you to generate stunning images from text prompts using advanced AI models. Whether you're an artist, developer, or just curious about AI, you'll find this tool fascinating and easy to use.
+This project allows you to generate stunning images from text prompts using advanced AI models.
 
 ## 🚀 Quick Start
 
