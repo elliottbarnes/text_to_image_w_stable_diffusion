@@ -55,9 +55,9 @@ This project allows you to generate stunning images from text prompts using adva
 - Contributions are welcome! Feel free to fork this repository, open issues, and submit pull requests to help improve this project.
 
 📄 License
-- This project is licensed under the MIT License - see the (LICENSE)[https://opensource.org/license/mit] for details.
+- This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) for details.
 
 📞 Contact
 Have feedback, suggestions, or questions? Reach out:
 
-Twitter: (@elliottbarness)[https://x.com/elliottbarness]
+Twitter: [@elliottbarness](https://x.com/elliottbarness)
