@@ -7,7 +7,7 @@ This project allows you to generate stunning images from text prompts using adva
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/text_to_image_w_stable_diffusion.git
+   git clone https://github.com/elliottbarnes/text_to_image_w_stable_diffusion.git
    cd text_to_image_w_stable_diffusion
    ```
    
